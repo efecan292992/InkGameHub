@@ -1,4 +1,4 @@
--- Ink Game Hub by EfecanRoblox
+-- Ink Game Hub by Efecan
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
